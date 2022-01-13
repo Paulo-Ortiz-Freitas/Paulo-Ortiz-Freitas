@@ -1,7 +1,7 @@
 - 👋 Olá, sou @Paulo-Ortiz-Freitas
 - 👀 Estou interessado em programação e desenvolvimento
 - 🌱 Estou aprendendo no momento C#, Css e Javascript
-- 💞️ Procuro projetos de aprendizado
+- 💞️ Procuro projetos para aprendizado.
 - 📫 Podem me encontrar em 51 998064848 Whatsapp
 
 <!---
